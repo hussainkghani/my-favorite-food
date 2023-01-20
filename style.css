@@ -3,7 +3,10 @@ section{
     text-align: center;
     color: crimson;
     font-family: Arial, Helvetica, sans-serif;
-
+}
+h1{
+    background-color: darkblue;
+    color: white;
 }
 p{
     font-weight: bold;
@@ -14,12 +17,20 @@ h2{
     text-align: center;
 }
 .banner{
-    height: 80%;
-    width: 80%;
-    padding: 10%;
-    border-color: cornflowerblue;
+    margin: 10px;
+    max-width: 90%;
+    max-height: 80%;
+    padding: 5%;
     border-radius: 60%;
 }
 .list-reasons{
     font-style: italic;
+}
+.container{
+    background-color: darkgray;
+    margin: 10%;
+}
+.section-aside{
+    display: flex;
+    flex-direction: row;
 }
