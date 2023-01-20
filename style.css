@@ -1,19 +1,25 @@
-title{
-    align-content: center;
-    color: crimson;
-}
+
 section{
-    align-content: center;
-    color: blue;
+    text-align: center;
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 p{
     font-weight: bold;
+    text-align: center;
 }
 h2{
     font-family: cursive;
+    text-align: center;
 }
-img{
-    height: auto;
-    width: auto;
+.banner{
+    height: 80%;
+    width: 80%;
+    padding: 10%;
+    border-color: cornflowerblue;
+    border-radius: 60%;
+}
+.list-reasons{
+    font-style: italic;
 }
