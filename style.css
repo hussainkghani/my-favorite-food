@@ -1,0 +1,19 @@
+title{
+    align-content: center;
+    color: crimson;
+}
+section{
+    align-content: center;
+    color: blue;
+
+}
+p{
+    font-weight: bold;
+}
+h2{
+    font-family: cursive;
+}
+img{
+    height: auto;
+    width: auto;
+}
